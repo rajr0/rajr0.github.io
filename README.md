@@ -1,1 +1,1 @@
-# rajr0.github.io
+Source code for my personal blog hosted at github.io.
