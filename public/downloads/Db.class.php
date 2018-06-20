@@ -1,7 +1,7 @@
 <?php
 /**
  * Class for executing and logging queries on Tradebanq.com database
- * @author Haisum <haisumbhatti@gmail.com>
+ * @author RajR <rramanku@hotmail.com>
  */
 class TradeBanqDb {
 	/**
